@@ -5,7 +5,7 @@ User experience design (UX design, UXD, UED, or XD), upon which is the centraliz
 ## History
 User experience design is a conceptual design discipline rooted in human factors and ergonomics. This field, since the late 1940s, has focused on the interaction between human users, machines, and contextual environments to design systems that address the user's experience. User experience became a positive insight for designers in the early 1990s with the proliferation of workplace computers. Don Norman, a professor and researcher in design, usability, and cognitive science, coined the term "user experience", and brought it to a wider audience that is inside our modernized society.
 
-I invented the term because I thought human interface and usability were too narrow. I wanted to cover all aspects of the person's experience with the system including industrial design graphics, the interface, the physical interaction and the manual. Since then the term has spread widely, so much so that it is starting to lose its meaning.
+>I invented the term because I thought human interface and usability were too narrow. I wanted to cover all aspects of the person's experience with the system including industrial design graphics, the interface, the physical interaction and the manual. Since then the term has spread widely, so much so that it is starting to lose its meaning.>
 
 — Donald Norman
 
@@ -69,4 +69,21 @@ Usability testing is carried out by giving users various tasks to perform on the
 
 [Slika2](pexels-picjumbo-com-55570-196644.jpg)
 
+`class MyApp extends StatelessWidget {
+  const MyApp({super.key});`
+[Tekst](https://en.wikipedia.org/wiki/User_experience_design)
+[slike](https://www.pexels.com/search/ux/)
 
+Lista:
+- jedan
+- dva
+- tri
+
+Lista:
+1. jedan
+2. dva
+3. tri
+
+| naziv | verzija | autor | datum | tehnologije |
+--------|---------|-------|-------|-------------|
+| User experience design | 1 | Matea | 13.02.2025. | web |
