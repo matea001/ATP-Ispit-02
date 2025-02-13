@@ -65,8 +65,8 @@ Once a solid and stable framework is established, wireframes are translated from
 ## Test and iterate
 Usability testing is carried out by giving users various tasks to perform on the prototypes. Any issues or problems faced by the users are collected as field notes and these notes are used to make changes in the design and reiterate the testing phase.[24] Aside from monitoring issues, questions asked by users are also noted in order to identify potential points of confusion. Usability testing is, at its core, a means to "evaluate, not create".
 
-[Slika1](C:\Users\Student\Downloads\pexels-picjumbo-com-55570-196645.jpg)
+[Slika1](pexels-picjumbo-com-55570-196645.jpg)
 
-[Slika2](C:\Users\Student\Downloads\pexels-picjumbo-com-55570-196644.jpg)
+[Slika2](pexels-picjumbo-com-55570-196644.jpg)
 
 
