@@ -87,3 +87,10 @@ Lista:
 | naziv | verzija | autor | datum | tehnologije |
 --------|---------|-------|-------|-------------|
 | User experience design | 1 | Matea | 13.02.2025. | web |
+
+[Change Log](CHANGELOG.md)
+[Licence](LICENSE.md)
+
+[YouTube](https://www.google.com/aclk?sa=L&ai=DChcSEwjv-I-hhsGLAxUMqYMHHUKoBdAYABAAGgJlZg&co=1&gclid=EAIaIQobChMI7_iPoYbBiwMVDKmDBx1CqAXQEAAYASAAEgIvoPD_BwE&sig=AOD64_3bm-hKWcTXAoIjZmgUGV_5jXqN1w&adurl=https://www.coursera.org/professional-certificates/google-ux-design%3Futm_medium%3Dsem%26utm_source%3Dgg%26utm_campaign%3Db2c_emea_google-ux-design_google_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_s1_en_m_hyb_24-03_x%26campaignid%3D21107415017%26adgroupid%3D%26device%3Dc%26keyword%3D%26matchtype%3D%26network%3Dx%26devicemodel%3D%26creativeid%3D%26assetgroupid%3D6493702695%26targetid%3D%26extensionid%3D%26placement%3D%26gad_source%3D2&ms=[CLICK_MS]&nx=[NX]&ny=[NY]&nb=0)
+
+
